@@ -1,6 +1,5 @@
-# Code Fun Do 2019
-
-## Team Pepperoni
+# SEVAM
+### Secure Electronic Voting and Authentication Machine
 
 ![Voter placing his vote](https://github.com/akshatha-k/Code.fun.do.2019/blob/master/pictures/person_voting.jpeg)
 
